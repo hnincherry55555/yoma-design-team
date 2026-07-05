@@ -1,0 +1,13 @@
+{
+  "name": "yoma-design-team",
+  "version": "0.1.0",
+  "description": "AI-native design workflow for the Yoma Fleet design team. Encodes the 11-step NN/g-based UX/UI process (UX 01-05, UI 01-06) as chained skills where each step's output feeds the next, with shared product knowledge for Car Share, PLUS+, Better, and Easy Lease.",
+  "author": {
+    "name": "Pyae Phyo Kyaw",
+    "email": "pyaephyokyaw@yomafleet.com"
+  },
+  "homepage": "https://github.com/hnincherry55555/yoma-design-team",
+  "repository": "https://github.com/hnincherry55555/yoma-design-team",
+  "license": "UNLICENSED",
+  "keywords": ["design", "ux", "ui", "figma", "design-system", "wcag", "yoma-fleet"]
+}

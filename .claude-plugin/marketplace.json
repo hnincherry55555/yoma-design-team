@@ -1,0 +1,19 @@
+{
+  "name": "yoma-fleet-design",
+  "owner": {
+    "name": "Yoma Fleet IT - Design Team",
+    "email": "pyaephyokyaw@yomafleet.com",
+    "url": "https://github.com/hnincherry55555/yoma-design-team"
+  },
+  "metadata": {
+    "description": "Yoma Fleet design team plugin marketplace.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "yoma-design-team",
+      "source": "./",
+      "description": "11-step UX/UI design workflow with product knowledge for Car Share, PLUS+, Better, and Easy Lease."
+    }
+  ]
+}
