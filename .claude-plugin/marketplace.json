@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "yoma-design-team",
+      "name": "yoma-fleet-design-team",
       "source": "./",
       "description": "11-step UX/UI design workflow with product knowledge for Car Share, PLUS+, Better, and Easy Lease."
     }

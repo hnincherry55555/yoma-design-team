@@ -1,4 +1,4 @@
-# Yoma Design Team Plugin
+# Yoma Fleet Design Team Plugin
 
 AI-native design workflow for the Yoma Fleet design team (3 designers, 4 products). Encodes our 11-step NN/g-based process as chained skills: the output of each step is the required input of the next. Sequence is not optional.
 
@@ -36,11 +36,11 @@ Workflow helpers: `workflow-start-project` (kick off a feature with product cont
 Option A, from GitHub (recommended once this repo is pushed):
 
 ```
-/plugin marketplace add yoma-fleet/yoma-design-team
-/plugin install yoma-design-team@yoma-fleet-design
+/plugin marketplace add hnincherry55555/yoma-design-team
+/plugin install yoma-fleet-design-team@yoma-fleet-design
 ```
 
-Option B, Cowork: install the packaged `yoma-design-team.plugin` file via Settings > Capabilities.
+Option B, Cowork: install the packaged `yoma-fleet-design-team.plugin` file via Settings > Capabilities.
 
 ## Connectors
 

@@ -1,5 +1,5 @@
 {
-  "name": "yoma-design-team",
+  "name": "yoma-fleet-design-team",
   "version": "0.1.0",
   "description": "AI-native design workflow for the Yoma Fleet design team. Encodes the 11-step NN/g-based UX/UI process (UX 01-05, UI 01-06) as chained skills where each step's output feeds the next, with shared product knowledge for Car Share, PLUS+, Better, and Easy Lease.",
   "author": {
